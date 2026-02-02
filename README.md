@@ -1,4 +1,4 @@
-# WordWise AI
+#  LexivoAI
 
 **AI-Powered Writing Assistant & Content Creation Platform**
 
@@ -11,7 +11,7 @@
 
 ## Overview
 
-WordWise AI is a modern, AI-powered writing assistant and content creation platform designed for creators, marketers, and professionals. Transform your documents into polished content, create Instagram carousels, and enhance your writing with intelligent AI assistance.
+Lexivo AI is a modern, AI-powered writing assistant and content creation platform designed for creators, marketers, and professionals. Transform your documents into polished content, create Instagram carousels, and enhance your writing with intelligent AI assistance.
 
 ### Key Features
 
@@ -63,8 +63,8 @@ WordWise AI is a modern, AI-powered writing assistant and content creation platf
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/wordwise-ai.git
-   cd wordwise-ai
+   git clone https://github.com/your-username/Lexivo-ai.git
+   cd Lexivo-ai
    ```
 
 2. **Install dependencies**
@@ -195,8 +195,8 @@ pnpm build
 pnpm start
 
 # Or use container deployment
-docker build -t wordwise-ai .
-docker run -p 3000:3000 wordwise-ai
+docker build -t Lexivo-ai .
+docker run -p 3000:3000 Lexivo-ai
 ```
 
 ---
@@ -222,7 +222,7 @@ pnpm db:studio    # Open database studio
 ### **Project Structure**
 
 ```
-wordwise-ai/
+Lexivo-ai/
 ├── app/                    # Next.js app router
 │   ├── api/               # API routes
 │   ├── (auth)/            # Authentication pages
@@ -439,8 +439,8 @@ This project is proprietary software. Unauthorized copying, modification, distri
 
 - **Author**: Pranjal Ekhande
 - **Documentation**: [Project Wiki](./docs/)
-- **Issues**: [GitHub Issues](https://github.com/your-username/wordwise-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/wordwise-ai/discussions)
+- **Issues**: [GitHub Issues](https://github.com/your-username/Lexivo-ai/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/your-username/Lexivo-ai/discussions)
 
 ---
 
