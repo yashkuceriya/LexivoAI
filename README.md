@@ -456,4 +456,16 @@ This project is proprietary software. Unauthorized copying, modification, distri
 
 ---
 
-**Built with ❤️ by [Pranjal Ekhande](https://github.com/your-username)**
+## Credits
+
+**LexivoAI** is built upon [WordWise AI](https://github.com/pranjalekhande/wordwise-ai), an original project by [Pranjal Ekhande](https://github.com/pranjalekhande).
+
+**Customizations & Enhancements by Yash Kuceriya:**
+- 🎨 Modern blue color theme redesign
+- 🧠 AI Suggestion Panel feature (real-time writing suggestions)
+- 📝 Comprehensive documentation and examples
+- 🏷️ Complete project rebranding to LexivoAI
+
+---
+
+**Built with ❤️ by [Yash Kuceriya](https://github.com/yashkuceriya)**
