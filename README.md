@@ -468,4 +468,4 @@ This project is proprietary software. Unauthorized copying, modification, distri
 
 ---
 
-**Built with ❤️ by [Yash Kuceriya](https://github.com/yashkuceriya)**
+**Built with ❤️ by [Yash Kucheriya](https://github.com/yashkuceriya)**
