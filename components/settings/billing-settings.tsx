@@ -27,7 +27,7 @@ export function BillingSettings() {
       <Alert className="border-blue-200 bg-blue-50 dark:border-blue-800 dark:bg-blue-950">
         <AlertCircle className="h-4 w-4 text-blue-600 dark:text-blue-400" />
         <AlertDescription className="text-blue-800 dark:text-blue-300">
-          <strong>Demo Page:</strong> This is a preview of the billing interface. Actual billing and subscription features will be available when WordWise AI launches.
+          <strong>Demo Page:</strong> This is a preview of the billing interface. Actual billing and subscription features will be available when LexivoAI launches.
         </AlertDescription>
       </Alert>
 
@@ -87,7 +87,7 @@ export function BillingSettings() {
       <Card>
         <CardHeader>
           <CardTitle>Future Pricing Plans</CardTitle>
-          <CardDescription>Planned subscription tiers for WordWise AI</CardDescription>
+          <CardDescription>Planned subscription tiers for LexivoAI</CardDescription>
         </CardHeader>
         <CardContent>
           <div className="grid gap-4 md:grid-cols-2">

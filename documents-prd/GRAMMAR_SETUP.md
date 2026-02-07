@@ -1,6 +1,6 @@
 # Grammar Checking Setup Guide
 
-This guide will help you set up the Grammarly-like grammar checking functionality in your WordWise AI application.
+This guide will help you set up the Grammarly-like grammar checking functionality in your LexivoAI application.
 
 ## Prerequisites
 

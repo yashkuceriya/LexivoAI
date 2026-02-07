@@ -564,7 +564,7 @@ export function InstagramStyleSlideEditor({ projectId }: InstagramStyleSlideEdit
         pdf.setProperties({
           title: currentProject.title,
           subject: 'Instagram Carousel',
-          author: 'WordWise AI'
+          author: 'LexivoAI'
         })
         
         // Get page width for use in multiple sections

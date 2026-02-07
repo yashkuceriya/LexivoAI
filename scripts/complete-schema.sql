@@ -107,7 +107,7 @@ ALTER TABLE user_settings DISABLE ROW LEVEL SECURITY;
 
 -- Insert demo user
 INSERT INTO users (id, email, name, plan_type) VALUES 
-('demo-user-123', 'demo@wordwise.ai', 'Demo User', 'pro');
+('demo-user-123', 'demo@lexivoai.com', 'Demo User', 'pro');
 
 -- Insert demo templates
 INSERT INTO brand_voice_templates (id, created_by, name, description, voice_profile, is_public) VALUES 

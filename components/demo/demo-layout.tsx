@@ -21,7 +21,7 @@ export function DemoLayout({ children }: DemoLayoutProps) {
           <SidebarTrigger className="-ml-1" />
           <Separator orientation="vertical" className="mr-2 h-4" />
           <div className="flex items-center gap-2">
-            <h1 className="text-lg font-semibold">WordWise AI</h1>
+            <h1 className="text-lg font-semibold">LexivoAI</h1>
             <span className="text-xs bg-yellow-100 text-yellow-800 px-2 py-1 rounded">DEMO MODE</span>
           </div>
         </header>

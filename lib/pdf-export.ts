@@ -300,7 +300,7 @@ export async function generateCarouselPDF(
     pdf.setProperties({
       title: project.title,
       subject: 'Instagram Carousel',
-      author: 'WordWise AI'
+      author: 'LexivoAI'
     })
 
     // Add cover page
@@ -349,7 +349,7 @@ export async function generateAndDownloadCarouselPDF(
     pdf.setProperties({
       title: project.title,
       subject: 'Instagram Carousel',
-      author: 'WordWise AI'
+      author: 'LexivoAI'
     })
 
     // Add cover page
@@ -452,7 +452,7 @@ export async function generateTextOnlyPDF(
     pdf.setProperties({
       title: project.title,
       subject: 'Instagram Carousel Content',
-      author: 'WordWise AI'
+      author: 'LexivoAI'
     })
 
     // Add title page
@@ -563,7 +563,7 @@ export async function generateAndDownloadTextOnlyPDF(
     pdf.setProperties({
       title: project.title,
       subject: 'Instagram Carousel Content',
-      author: 'WordWise AI'
+      author: 'LexivoAI'
     })
 
     // Add title page

@@ -228,7 +228,7 @@ export function AppearanceSettings() {
             Theme & Display
           </CardTitle>
           <CardDescription>
-            Customize how WordWise AI looks and feels for your preferences
+            Customize how LexivoAI looks and feels for your preferences
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-6">

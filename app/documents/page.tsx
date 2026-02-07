@@ -6,7 +6,7 @@ import { useEffect } from "react"
 export default function DocumentsPage() {
   // Set document title on client side
   useEffect(() => {
-    document.title = "My Documents - WordWise AI"
+    document.title = "My Documents - LexivoAI"
   }, [])
 
   return (

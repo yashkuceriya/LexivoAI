@@ -10,8 +10,8 @@ import { Toaster } from "sonner"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "WordWise AI - AI-Powered Writing Assistant & Content Creation",
-  description: "Transform your writing with AI intelligence. Create Instagram carousels, get smart grammar checking, and produce compelling content with intelligent templates and brand voice insights.",
+  title: "LexivoAI - AI-Powered Content Creation with Smart Suggestions",
+  description: "Create stunning content with AI-powered suggestions. Build Instagram carousels, get intelligent recommendations, and optimize your writing with real-time AI assistance.",
 }
 
 export default function RootLayout({

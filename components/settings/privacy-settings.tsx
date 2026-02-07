@@ -16,7 +16,7 @@ export function PrivacySettings() {
   const [marketingEmails, setMarketingEmails] = useState(false)
 
   const handleDemoAction = (action: string) => {
-    alert(`Demo Mode: ${action} functionality will be available when WordWise AI launches with full privacy controls.`)
+    alert(`Demo Mode: ${action} functionality will be available when LexivoAI launches with full privacy controls.`)
   }
 
   return (
@@ -25,7 +25,7 @@ export function PrivacySettings() {
       <Alert className="border-blue-200 bg-blue-50 dark:border-blue-800 dark:bg-blue-950">
         <AlertCircle className="h-4 w-4 text-blue-600 dark:text-blue-400" />
         <AlertDescription className="text-blue-800 dark:text-blue-300">
-          <strong>Demo Page:</strong> This is a preview of privacy controls. Full privacy and data management features will be implemented when WordWise AI launches.
+          <strong>Demo Page:</strong> This is a preview of privacy controls. Full privacy and data management features will be implemented when LexivoAI launches.
         </AlertDescription>
       </Alert>
 
@@ -35,7 +35,7 @@ export function PrivacySettings() {
             <Shield className="h-5 w-5" />
             Privacy & Security (Preview)
           </CardTitle>
-          <CardDescription>Future privacy controls for your WordWise AI account</CardDescription>
+          <CardDescription>Future privacy controls for your LexivoAI account</CardDescription>
         </CardHeader>
         <CardContent className="space-y-6">
           <div className="space-y-3">
@@ -91,7 +91,7 @@ export function PrivacySettings() {
               <p className="text-sm font-medium text-green-800 dark:text-green-300">Privacy-First Approach</p>
             </div>
             <p className="text-xs text-green-700 dark:text-green-400">
-              WordWise AI is being built with privacy as a core principle. All data processing will be transparent, 
+              LexivoAI is being built with privacy as a core principle. All data processing will be transparent, 
               with strong encryption and user control over personal information.
             </p>
           </div>

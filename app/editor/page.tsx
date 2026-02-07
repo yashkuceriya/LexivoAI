@@ -12,7 +12,7 @@ export default function EditorPage() {
 
   // Set document title on client side
   useEffect(() => {
-    document.title = "Content Editor - WordWise AI"
+    document.title = "Content Editor - LexivoAI"
   }, [])
 
   return (

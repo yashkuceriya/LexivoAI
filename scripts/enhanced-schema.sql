@@ -85,7 +85,7 @@ CREATE TABLE IF NOT EXISTS user_settings (
 
 -- Insert dummy data
 INSERT INTO users (id, email, name, plan_type) VALUES 
-('demo-user-123', 'demo@wordwise.ai', 'Demo User', 'pro')
+('demo-user-123', 'demo@lexivoai.com', 'Demo User', 'pro')
 ON CONFLICT (id) DO UPDATE SET
   email = EXCLUDED.email,
   name = EXCLUDED.name,

@@ -41,7 +41,7 @@ END $$;
 
 -- Insert demo user
 INSERT INTO users (id, email, name, plan_type) VALUES 
-('demo-user-123', 'demo@wordwise.ai', 'Demo User', 'pro')
+('demo-user-123', 'demo@lexivoai.com', 'Demo User', 'pro')
 ON CONFLICT (id) DO UPDATE SET
   email = EXCLUDED.email,
   name = EXCLUDED.name,

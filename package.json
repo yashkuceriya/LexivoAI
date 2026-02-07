@@ -1,9 +1,9 @@
 {
-  "name": "wordwise-ai",
+  "name": "lexivoai",
   "version": "0.1.0",
   "private": true,
-  "author": "Pranjal Ekhande",
-  "description": "AI-powered writing assistant and content creation platform",
+  "author": "Yash Kuceriya",
+  "description": "AI-powered content creation platform with intelligent suggestions and carousel builder",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

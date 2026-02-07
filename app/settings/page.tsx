@@ -11,7 +11,7 @@ import { useEffect } from "react"
 export default function SettingsPage() {
   // Set document title on client side
   useEffect(() => {
-    document.title = "Settings - WordWise AI"
+    document.title = "Settings - LexivoAI"
   }, [])
 
   return (

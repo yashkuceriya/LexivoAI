@@ -44,11 +44,11 @@ export function AppSidebar() {
       <SidebarHeader className="p-4 lg:p-6 border-b border-border/40">
         <div className="flex items-center gap-3">
           <div className="flex h-10 w-10 lg:h-12 lg:w-12 items-center justify-center rounded-xl bg-gradient-to-br from-primary to-primary/80 text-primary-foreground shadow-lg">
-            <span className="text-lg lg:text-xl font-bold">I</span>
+            <span className="text-lg lg:text-xl font-bold">L</span>
           </div>
           <div className="min-w-0 flex-1">
-            <h2 className="text-lg lg:text-xl font-bold text-foreground truncate">WordWise AI</h2>
-            <p className="text-xs lg:text-sm text-muted-foreground font-medium truncate">Instagram Carousel Creator</p>
+            <h2 className="text-lg lg:text-xl font-bold text-foreground truncate">LexivoAI</h2>
+            <p className="text-xs lg:text-sm text-muted-foreground font-medium truncate">AI-Powered Content Creator</p>
           </div>
         </div>
       </SidebarHeader>

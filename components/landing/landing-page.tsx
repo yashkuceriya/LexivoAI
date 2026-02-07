@@ -23,10 +23,10 @@ export function LandingPage() {
           <div className="flex justify-between items-center h-16">
             {/* Logo */}
             <div className="flex items-center space-x-2">
-              <div className="w-8 h-8 bg-amber-900 rounded-lg flex items-center justify-center">
+              <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
                 <Edit className="h-5 w-5 text-white" />
               </div>
-              <span className="text-xl font-bold text-stone-900">WordWise AI</span>
+              <span className="text-xl font-bold text-stone-900">LexivoAI</span>
             </div>
 
             {/* Desktop Navigation */}
@@ -267,10 +267,10 @@ export function LandingPage() {
         <div className="max-w-7xl mx-auto">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-2 mb-6 md:mb-0">
-              <div className="w-8 h-8 bg-amber-900 rounded-lg flex items-center justify-center">
+              <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
                 <Edit className="h-5 w-5 text-white" />
               </div>
-              <span className="text-xl font-bold text-white">WordWise AI</span>
+              <span className="text-xl font-bold text-white">LexivoAI</span>
             </div>
             <div className="flex space-x-8 text-sm font-medium">
               <a href="#" className="hover:text-white transition-colors">Privacy</a>
